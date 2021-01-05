@@ -10,3 +10,5 @@ $ pip install django-ads
 $ pip install whoosh 
 $ pip install docker 
 $ pip install channel_redis
+Tech stack used in this:
+Django, Html/css/javascript, Django Admin for data.
